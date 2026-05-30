@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AI-Powered Chat Application<br>I'm looking for help with fine-tuning LLM models for Translation<br>I'm currently learning the LangChain Framework<br>
+I'm currently working on Queuecast Web App<br>I'm looking for help with Sockets in Go<br>I'm currently learning Go Language<br>
 
 
 ## 🌐 Socials:
