@@ -70,7 +70,7 @@ An AI wardrobe assistant designed to recommend outfits using items from a user's
 - Combines semantic search and AI-powered recommendations to find relevant wardrobe items.
 - Built with **Python, FastAPI, MongoDB, FashionCLIP, and LLM APIs**.
 
-### 🌍 NewsGraph — Connecting the Dots in World Events
+### 🌍 WorldGraph — Connecting the Dots in World Events
 A knowledge-graph project that explores relationships between news events and helps investigate how events connect, what contributed to them, and what they may affect.
 
 - Uses a graph to represent events, articles, and relationships.
